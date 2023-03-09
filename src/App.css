@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.logo{
+
+  width: 40px;
+}
+
+.d-block{
+
+  width: 200px;
+  height:600px;
+}
+
+.d-flex{
+  margin: 20px;
+}
+
